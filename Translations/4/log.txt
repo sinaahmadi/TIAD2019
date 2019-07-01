@@ -1,0 +1,12 @@
+Paths in EN-PT
+[['EN', 'EU', 'ES', 'PT'], ['EN', 'CA', 'PT'], ['EN', 'CA', 'ES', 'PT'], ['EN', 'GL', 'PT'], ['EN', 'GL', 'ES', 'PT'], ['EN', 'EO', 'CA', 'PT'], ['EN', 'EO', 'ES', 'PT'], ['EN', 'ES', 'GL', 'PT'], ['EN', 'ES', 'PT'], ['EN', 'ES', 'CA', 'PT']]
+
+Paths in EN-FR
+[['EN', 'EU', 'ES', 'FR'], ['EN', 'CA', 'EO', 'FR'], ['EN', 'CA', 'FR'], ['EN', 'CA', 'ES', 'FR'], ['EN', 'GL', 'ES', 'FR'], ['EN', 'EO', 'CA', 'FR'], ['EN', 'EO', 'FR'], ['EN', 'EO', 'ES', 'FR'], ['EN', 'ES', 'FR'], ['EN', 'ES', 'CA', 'FR'], ['EN', 'ES', 'EO', 'FR']]
+
+Paths in FR-PT
+[['FR', 'CA', 'PT'], ['FR', 'CA', 'ES', 'PT'], ['FR', 'EO', 'CA', 'PT'], ['FR', 'EO', 'ES', 'PT'], ['FR', 'ES', 'GL', 'PT'], ['FR', 'ES', 'PT'], ['FR', 'ES', 'CA', 'PT']]
+
+[['PT', 'CA', 'EO', 'FR'], ['PT', 'CA', 'FR'], ['PT', 'CA', 'ES', 'FR'], ['PT', 'GL', 'ES', 'FR'], ['PT', 'ES', 'FR'], ['PT', 'ES', 'CA', 'FR'], ['PT', 'ES', 'EO', 'FR']]
+
+[['PT', 'CA', 'EO', 'EN'], ['PT', 'CA', 'EN'], ['PT', 'CA', 'ES', 'EN'], ['PT', 'GL', 'EN'], ['PT', 'GL', 'ES', 'EN'], ['PT', 'ES', 'GL', 'EN'], ['PT', 'ES', 'CA', 'EN'], ['PT', 'ES', 'EO', 'EN'], ['PT', 'ES', 'EN'], ['PT', 'ES', 'EU', 'EN']]
